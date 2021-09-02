@@ -1,0 +1,26 @@
+{
+  "apiInput": {
+    "text": "API Key",
+    "type": "textbox",
+    "value": "8b359855f14d52d492d8da3fd54fc50c"
+  },
+   "cityInput": {
+    "text": "Location",
+    "type": "textbox",
+    "value": "Nairobi, Kenya"
+  },
+   "unit": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Unit",
+    "items": [
+      "Metric",
+      "Imperial"
+    ]
+  },
+  "btnRefresh" : {
+	"text" : "Click to Update Weather",
+	"type" : "button",
+	"value" : "Refresh"
+	}
+}
